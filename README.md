@@ -1,3 +1,8 @@
+[Co dodělat ]: #
+[nic ]: #
+
+
+
 # Ročníkový projekt
 
 ## Termín odevzdání
@@ -60,6 +65,22 @@ Za **neodevzdání v termínu** je 2x 5 s váhou 5 v prvním pololetí, a váhou
 Pokud nebudete řádně citovat a neuvedete poděkování, budu to brát jako podvod a hodnocení bude opět 2x 5.
 
 
+## Typy
+
+> :bulb: **Tip:** Pro psaní textů doporučuji použít html, nebo lépe jazyk markdown.
+
+> :bulb: **Tip:** Pokud nevíte, jak zpracovat podklady, zkuste se podívejte na:
+> - [Programovatelné vánoční osvětlení](https://blog.laskakit.cz/programovatelne-vanocni-osvetleni/)
+> - [Jak vyrobit Arduino robota](https://blog.laskakit.cz/jak-vyrobit-arduino-robota/)
+> - [LBot](https://github.com/LaskaKit/LBot)
+
+> :bulb: **Tip:** Pokud potřebujete inspiraci pro natočení videa, podívejte se zde:
+> - [LáskaKit Meteo Mini Meteostanice 2.0 s odesíláním dat na TMEP.cz](https://youtu.be/Ipeo-O5kT-w?feature=shared)
+> - [Webináře na HARDWARIO](https://www.youtube.com/@HARDWARIO/videos)
+> - [Video návody na Drátek.cz](https://www.youtube.com/c/Arduinon%C3%A1vody) 
+    
+
+
 ## Použité nástroje
 
 (1) CITACE.COM, S.R.O. Citace.com. Online. © 2024. Dostupné z: https://www.citace.com/. [cit. 2024-11-25].
@@ -70,5 +91,6 @@ Pokud nebudete řádně citovat a neuvedete poděkování, budu to brát jako po
 ## Literatura
 
 [1] Markdown Guide. Online. © 2024. Dostupné z: https://www.markdownguide.org/. [cit. 2024-11-25].
+
 
 
