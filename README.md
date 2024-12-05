@@ -65,6 +65,20 @@ Za **neodevzdání v termínu** je 2x 5 s váhou 5 v prvním pololetí, a váhou
 Pokud nebudete řádně citovat a neuvedete poděkování, budu to brát jako podvod a hodnocení bude opět 2x 5.
 
 
+## Hodnocení
+| Body v 1. pololetí | Body ve 2. pololetí | Známky |
+| ----- | ----- | -----|
+| > 51 | > 101 | 1 1 |
+| 50 - 46 | 100 - 91 | 1 2 |
+| 45 - 41 | 90 - 81 | 2 2 |
+| 40 - 36 | 80 - 71 | 2 3 |
+| 35 - 31 | 70 - 61 | 3 3 |
+| 30 - 26 | 60 - 51 | 3 4 |
+| 25 - 21 | 50 - 41 | 4 4 |
+| 20 - 16 | 40 - 31 | 4 5 |
+| <= 15 | <= 30 | 5 5 |
+
+
 ## Typy
 
 > :bulb: **Tip:** Pro psaní textů doporučuji použít html, nebo lépe jazyk markdown.
