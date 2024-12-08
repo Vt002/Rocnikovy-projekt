@@ -81,18 +81,26 @@ Pokud nebudete řádně citovat a neuvedete poděkování, budu to brát jako po
 
 ## Typy
 
-> :bulb: **Tip:** Pro psaní textů doporučuji použít html, nebo lépe jazyk markdown.
+<details>
+    <summary> :bulb: Tip: </summary>
+        Pro psaní textů doporučuji použít html, nebo lépe jazyk markdown.
+</details>
 
-> :bulb: **Tip:** Pokud nevíte, jak zpracovat podklady, zkuste se podívejte na:
-> - [Programovatelné vánoční osvětlení](https://blog.laskakit.cz/programovatelne-vanocni-osvetleni/)
-> - [Jak vyrobit Arduino robota](https://blog.laskakit.cz/jak-vyrobit-arduino-robota/)
-> - [LBot](https://github.com/LaskaKit/LBot)
+<details>
+    <summary> :bulb: Tip: </summary>
+        Pokud nevíte, jak zpracovat podklady, zkuste se podívejte na:
+            - [Programovatelné vánoční osvětlení](https://blog.laskakit.cz/programovatelne-vanocni-osvetleni/)
+            - [Jak vyrobit Arduino robota](https://blog.laskakit.cz/jak-vyrobit-arduino-robota/)
+            - [LBot](https://github.com/LaskaKit/LBot)
+</details>
 
-> :bulb: **Tip:** Pokud potřebujete inspiraci pro natočení videa, podívejte se zde:
-> - [LáskaKit Meteo Mini Meteostanice 2.0 s odesíláním dat na TMEP.cz](https://youtu.be/Ipeo-O5kT-w?feature=shared)
-> - [Webináře na HARDWARIO](https://www.youtube.com/@HARDWARIO/videos)
-> - [Video návody na Drátek.cz](https://www.youtube.com/c/Arduinon%C3%A1vody) 
-    
+<details>
+    <summary> :bulb: Tip: </summary>
+        Pokud potřebujete inspiraci pro natočení videa, podívejte se zde:
+            - [LáskaKit Meteo Mini Meteostanice 2.0 s odesíláním dat na TMEP.cz](https://youtu.be/Ipeo-O5kT-w?feature=shared)
+            - [Webináře na HARDWARIO](https://www.youtube.com/@HARDWARIO/videos)
+            - [Video návody na Drátek.cz](https://www.youtube.com/c/Arduinon%C3%A1vody) 
+</details>
 
 
 ## Použité nástroje
