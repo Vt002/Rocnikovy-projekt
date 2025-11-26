@@ -7,10 +7,12 @@
 
 ## Termín odevzdání
 
-1. pololetí: 19. 12. 2024
+1. pololetí: 19. 12. 202x
 
-2. pololetí: 15. 5. 2025
+2. pololetí: 15. 5. 202y
 
+x - první pololetí aktuálního školního roku
+y - druhé pololetí aktuálního školního roku
 
 ## Zadání
 
