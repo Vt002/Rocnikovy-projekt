@@ -12,6 +12,7 @@
 2. pololetí: 15. 5. 202y
 
 x - první pololetí aktuálního školního roku
+
 y - druhé pololetí aktuálního školního roku
 
 ## Zadání
