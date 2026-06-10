@@ -5,8 +5,6 @@
 
 # Ročníkový projekt
 
-# TEST3
-
 ## Termín odevzdání
 
 1. pololetí: 19. 12. 202x
